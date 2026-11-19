@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="3 3 18 18">
+  <!-- Icone do tabuleiro: auriculares in-ear numa so cor, sem fundo. O GTK e o
+       GNOME Shell pintam-no com a cor do painel; o KDE Plasma le a classe
+       ColorScheme-Text. -->
+  <style id="current-color-scheme">.ColorScheme-Text { color: #2e3436; }</style>
+  <g class="ColorScheme-Text" fill="currentColor">
+    <circle cx="8.2" cy="9.4" r="3.3"/>
+    <rect x="9.5" y="9.6" width="2" height="9.4" rx="1"/>
+    <circle cx="15.8" cy="9.4" r="3.3"/>
+    <rect x="12.5" y="9.6" width="2" height="9.4" rx="1"/>
+  </g>
+</svg>

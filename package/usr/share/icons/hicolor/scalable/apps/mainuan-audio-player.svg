@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" version="1.1">
+  <defs>
+    <linearGradient id="bg" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#0CD3DE"/>
+      <stop offset="1" stop-color="#02909A"/>
+    </linearGradient>
+  </defs>
+  <!-- Fundo na cor do logo Mainuan -->
+  <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#bg)" stroke="#808080" stroke-opacity="0.18" vector-effect="non-scaling-stroke"/>
+  <!-- Auricular esquerdo (in-ear) -->
+  <g fill="#ffffff">
+    <circle cx="8.2" cy="9.4" r="3.3"/>
+    <rect x="9.5" y="9.6" width="2" height="9.4" rx="1"/>
+    <!-- Auricular direito (in-ear) -->
+    <circle cx="15.8" cy="9.4" r="3.3"/>
+    <rect x="12.5" y="9.6" width="2" height="9.4" rx="1"/>
+  </g>
+  <!-- Ponto do altifalante -->
+  <circle cx="8.2" cy="9.4" r="1.2" fill="#02909A" fill-opacity="0.28"/>
+  <circle cx="15.8" cy="9.4" r="1.2" fill="#02909A" fill-opacity="0.28"/>
+</svg>

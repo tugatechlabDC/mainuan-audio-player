@@ -1,0 +1,12 @@
+Package: mainuan-audio-player
+Version: 1.0.1-2
+Architecture: amd64
+Maintainer: David Caixinha <mainuan@example.com>
+Installed-Size: 8724
+Depends: libc6 (>= 2.39), libgcc-s1, libglib2.0-0t64 | libglib2.0-0, libgtk-4-1 (>= 4.22), libadwaita-1-0 (>= 1.9), libmpv2, libpango-1.0-0, libgdk-pixbuf-2.0-0, libcairo2, libgraphene-1.0-0, libsqlite3-0, libpulse0, mpv, ffmpeg
+Conflicts: big-audio-player
+Replaces: big-audio-player
+Section: sound
+Priority: optional
+Description: Music and audio player for Mainuan
+ GTK4/libadwaita music and audio player using mpv, with MPRIS support.

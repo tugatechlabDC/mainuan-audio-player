@@ -1,0 +1,5 @@
+#!/bin/bash
+# Mainuan audio player - lancador
+LIB=/usr/lib/mainuan-audio-player
+export LD_PRELOAD="$LIB/libmainuan-branding.so${LD_PRELOAD:+:$LD_PRELOAD}"
+exec -a mainuan-audio-player "$LIB/mainuan-audio-player-bin" "$@"

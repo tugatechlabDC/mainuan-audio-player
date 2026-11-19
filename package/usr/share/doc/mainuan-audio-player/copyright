@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mainuan-audio-player
+Comment: Versao com a marca Mainuan do reprodutor de audio big-audio-player
+ (trabalho original da BigLinux, https://github.com/biglinux/big-multimedia).
+ O aviso de direitos de autor original e mantido, conforme exige a GPL.
+
+Files: *
+Copyright: BigLinux (trabalho original)
+ 2026 David Caixinha (adaptacao Mainuan)
+License: GPL-3.0-or-later
+ On Debian systems, the full text of the GNU General Public License
+ version 3 can be found in /usr/share/common-licenses/GPL-3.
