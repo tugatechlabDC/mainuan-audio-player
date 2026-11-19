@@ -1,6 +1,6 @@
 <div align="center">
 
-![Mainuan audio player](package/usr/share/icons/hicolor/256x256/apps/mainuan-logo.png)
+![Mainuan audio player](package/usr/share/icons/hicolor/256x256/apps/mainuan-audio-player.png)
 
 # MAINUAN AUDIO PLAYER
 
